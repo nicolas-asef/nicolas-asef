@@ -2,6 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 </br>
 Apasionado por la programación y la tecnología 😄😄.
+
 </br>
 Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
 
