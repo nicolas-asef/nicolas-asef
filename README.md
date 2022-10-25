@@ -28,7 +28,7 @@ Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en 
 </br>
 <h3>🚀 Proyectos 🚀 </h3>
 
-<p>Una pagina web orientada a la búsqueda laboral dirigida a personas que tengan un oficio. Podrás contratar gente y contactar con ellos. Teniendo la posibilidad de hacerte trabajador premium y poder acceder a mas beneficios y visualizaciones. Autenticación de terceros. Base de datos. Dashboard de administrador. Soket.io. Se trabajo con la metodologia SCRUM. </p>
+<p>Una pagina web orientada a la búsqueda laboral dirigida a personas que tengan un oficio. Podrás contratar gente y contactar con ellos. Teniendo la posibilidad de hacerte trabajador premium y poder acceder a mas beneficios y visualizaciones. Autenticación de terceros. Base de datos. Dashboard de administrador. Soket.io. Borrado Logico. Se trabajo con la metodologia SCRUM. </p>
 
 <p align="center">
 <img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/home.png" alt="home proyecto"/>
