@@ -36,7 +36,7 @@ Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en 
 </p>
 <p align="center">
 <img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/chat.png" alt="home proyecto"/>
-<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/mapa.png" alt="home proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/contrato.png" alt="home proyecto"/>
 </p>
 
 
