@@ -7,7 +7,11 @@ Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en 
 
 
 <h3> 🌐 Contactame: </h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-asef/)
+<p align="left">
+<a href="https://www.linkedin.com/in/nicolas-asef/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-asef/" height="30" width="40" />
+</a>
+</p>
 
 
 <!--
