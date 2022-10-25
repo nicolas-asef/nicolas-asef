@@ -6,7 +6,8 @@ Apasionado por la programación y la tecnología 😄😄.
 Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
 
 
-
+<h3> 🌐 Contactame: </h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-asef/)
 
 
 <!--
