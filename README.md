@@ -7,12 +7,14 @@ Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en 
 
 
 <h3>Contactame: </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nicolas-asef/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-asef/" height="30" width="40" />
-</a>
-</p>
-
+<div align="left" style="display:flex; align-items:flex-start">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-asef/" height="20" width="20" />
+<p style="font-size: 15px; margin-left:10px"> https://www.linkedin.com/in/nicolas-asef </p>
+</div>
+<div align="left" style="display:flex; align-items:flex-start">
+<img align="center" src="./assets/images/gmail.png" alt="nicolasasef1@gmail.com" height="20" width="20" />
+<p style="font-size: 15px; margin-left:10px"> nicolasasef1@gmail.com </p>
+</div>
 
 <!--
 **nicolas-asef/nicolas-asef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
