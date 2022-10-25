@@ -32,11 +32,11 @@ Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en 
 
 <p align="center">
 <img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/home.png" alt="home proyecto"/>
-<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/mapa.png" alt="home proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/mapa.png" alt="mapa proyecto"/>
 </p>
 <p align="center">
-<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/chat.png" alt="home proyecto"/>
-<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/dashboard.png" alt="home proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/borrado.png" alt="borrado proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/dashboard.png" alt="dashboard proyecto"/>
 </p>
 
 
