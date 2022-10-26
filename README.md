@@ -10,7 +10,7 @@ Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en 
 <p align = "bottom" text-align = "bottom"> <a><img align="center" src="./assets/images/linkedin.png" alt="https://www.linkedin.com/in/nicolas-asef/" height="20" width="20"/></a>&nbsp&nbsp<a href="https://www.linkedin.com/in/nicolas-asef/" target="_black">https://www.linkedin.com/in/nicolas-asef/</a></p>
 <p align = "bottom" text-align = "bottom"> <a><img align="center" src="./assets/images/gmail.png" alt="nicolasasef1@gmail.com" height="20" width="20"/></a>&nbsp nicolasasef1@gmail.com</p>
 
-<h3 align="left">Languajes y Tecnologias</h3>
+<h3 align="left">Lenguajes y Tecnologias</h3>
 <p align="left"> 
 <a href="https://www.javascript.com/" target="_blank"> <img src="./assets/images/js.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="./assets/images/html5.png" alt="html5" width="40" height="40"/> </a> 
