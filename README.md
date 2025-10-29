@@ -3,7 +3,7 @@
 
 Apasionado por la programación y la tecnología 😄😄.
 
-Soy Full Stack Developer 🎓 egresado de www.soyhenry.com, estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
+Soy Full Stack Developer 🎓,estoy interesado en el mundo del desarrollo de software y también por el aprendizaje constante de nuevas tecnologías.
 
 </br>
 <h3>Contactame: </h3>
